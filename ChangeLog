@@ -1,0 +1,35 @@
+------------------------------------------------------------
+User: tosti  Thu Sep 13 04:10:26 PDT 2007
+pgwave
+
+Log Message:
+initial import
+
+Status:
+
+Vendor Tag:	GT
+Release Tags:	v0r0p0
+		
+N pgwave/cmt/Makefile
+N pgwave/cmt/requirements
+N pgwave/cmt/setup.csh
+N pgwave/cmt/setup.sh
+N pgwave/cmt/cleanup.csh
+N pgwave/cmt/cleanup.sh
+N pgwave/src/filtri.cpp
+N pgwave/src/function_util.cpp
+N pgwave/src/main.cpp
+N pgwave/src/MyImage.cpp
+N pgwave/src/MyImageAnalisys.cpp
+N pgwave/src/utile.cpp
+N pgwave/pgwave/filtri.h
+N pgwave/pgwave/function_util.h
+N pgwave/pgwave/MyImage.h
+N pgwave/pgwave/MyImageAnalisys.h
+N pgwave/pgwave/MyMatrix.h
+N pgwave/pgwave/utile.h
+N pgwave/pfiles/pgwave.par
+
+No conflicts created by this import
+
+    *
