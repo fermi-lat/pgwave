@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: tosti  Fri Sep 14 08:54:29 PDT 2007
+pgwave/src
+
+Modified Files:
+	MyImage.cpp MyImageAnalisys.cpp filtri.cpp function_util.cpp 
+	utile.cpp 
+Removed Files:
+	main.cpp 
+Log Message:
+main.cpp removed from src dir
+    *
+------------------------------------------------------------
 User: tosti  Fri Sep 14 08:49:51 PDT 2007
 pgwave/src/app
 
