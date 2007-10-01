@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tosti  Mon Oct  1 07:25:48 PDT 2007
+pgwave/python
+
+Log Message:
+Directory /nfs/slac/g/glast/ground/cvs/pgwave/python added to the repository
+--> Using per-directory sticky tag `v0r0p1'
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r0p1, operation: add
 Package: pgwave
