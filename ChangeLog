@@ -1,4 +1,33 @@
 ------------------------------------------------------------
+TAG
+Tag name: v1, operation: add
+Package: pgwave
+User: tosti  Mon Apr 28 04:58:40 2008
+Files:
+  pgwave/ChangeLog  1.11
+  pgwave/cmt/setup.csh  1.2
+  pgwave/cmt/cleanup.csh  1.2
+  pgwave/cmt/requirements  1.4
+  pgwave/cmt/cleanup.sh  1.2
+  pgwave/cmt/setup.sh  1.2
+  pgwave/cmt/Makefile  1.1.1.1
+  pgwave/pfiles/pgwave2D.par  1.1
+  pgwave/pfiles/pgwave.par  1.1.1.1
+  pgwave/pgwave/utile.h  1.2
+  pgwave/pgwave/MyImageAnalisys.h  1.1.1.1
+  pgwave/pgwave/MyMatrix.h  1.1.1.1
+  pgwave/pgwave/MyImage.h  1.1.1.1
+  pgwave/pgwave/function_util.h  1.1.1.1
+  pgwave/pgwave/filtri.h  1.2
+  pgwave/src/function_util.cpp  1.3
+  pgwave/src/utile.cpp  1.3
+  pgwave/src/filtri.cpp  1.2
+  pgwave/src/MyImage.cpp  1.2
+  pgwave/src/MyImageAnalisys.cpp  1.3
+  pgwave/src/app/main.cpp  1.1
+
+    *
+------------------------------------------------------------
 User: tosti  Mon Apr 28 04:57:16 PDT 2008
 pgwave/pgwave
 
