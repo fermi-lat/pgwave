@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tosti  Fri May  2 15:06:55 PDT 2008
+pgwave/cmt
+
+Modified Files:
+	cleanup.csh cleanup.sh requirements setup.csh setup.sh 
+Log Message:
+added hoops support
+    *
+------------------------------------------------------------
 TAG
 Tag name: v1, operation: add
 Package: pgwave
