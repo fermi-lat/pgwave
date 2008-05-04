@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jchiang  Sun May  4 15:05:29 PDT 2008
+pgwave/cmt
+
+Removed Files:
+	Makefile cleanup.csh cleanup.sh setup.csh setup.sh 
+Log Message:
+remove CMT-generated files
+    *
+------------------------------------------------------------
 TAG
 Tag name: pgwave-01-01-00, operation: add
 Package: pgwave
