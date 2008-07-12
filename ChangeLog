@@ -1,5 +1,37 @@
 ------------------------------------------------------------
 TAG
+Tag name: ScienceTools-09-06-01, operation: add
+Package: pgwave
+User: glastrm  Sat Jul 12 11:58:48 2008
+Files:
+  pgwave/ChangeLog  1.19
+  pgwave/cmt/setup.csh  1.3
+  pgwave/cmt/cleanup.csh  1.3
+  pgwave/cmt/requirements  1.5
+  pgwave/cmt/cleanup.sh  1.3
+  pgwave/cmt/setup.sh  1.3
+  pgwave/cmt/Makefile  1.1.1.1
+  pgwave/doc/release.notes  1.1
+  pgwave/pfiles/pgwave2D.par  1.1
+  pgwave/pfiles/pgwave.par  1.1.1.1
+  pgwave/pgwave/utile.h  1.2
+  pgwave/pgwave/MyImageAnalisys.h  1.1.1.1
+  pgwave/pgwave/MyMatrix.h  1.1.1.1
+  pgwave/pgwave/MyImage.h  1.1.1.1
+  pgwave/pgwave/readParFile.h  1.1
+  pgwave/pgwave/function_util.h  1.2
+  pgwave/pgwave/filtri.h  1.2
+  pgwave/src/function_util.cpp  1.4
+  pgwave/src/readParFile.cpp  1.1
+  pgwave/src/utile.cpp  1.3
+  pgwave/src/filtri.cpp  1.2
+  pgwave/src/MyImage.cpp  1.2
+  pgwave/src/MyImageAnalisys.cpp  1.3
+  pgwave/src/app/main.cpp  1.2
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: ScienceTools-09-06-00, operation: add
 Package: pgwave
 User: glastrm  Wed Jul  9 20:32:48 2008
