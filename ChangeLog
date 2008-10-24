@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tosti  Fri Oct 24 14:17:36 PDT 2008
+pgwave/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+added the possibility to insert a output file name prefix as request by the catalog pipeline people
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-09-07-00, operation: add
 Package: pgwave
