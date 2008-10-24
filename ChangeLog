@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: tosti  Fri Oct 24 14:17:38 PDT 2008
+pgwave/src
+
+Modified Files:
+	readParFile.cpp utile.cpp 
+Log Message:
+added the possibility to insert a output file name prefix as request by the catalog pipeline people
+    *
+------------------------------------------------------------
 User: tosti  Fri Oct 24 14:17:37 PDT 2008
 pgwave/pgwave
 
