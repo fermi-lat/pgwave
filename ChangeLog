@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: pgwave-01-02-00, operation: add
+Package: pgwave
+User: jchiang  Wed Jul 29 13:38:31 2009
+Files:
+  pgwave/pgwaveLib.py  1.1
+
+    *
+------------------------------------------------------------
 User: jchiang  Wed Jul 29 13:15:26 PDT 2009
 pgwave
 
