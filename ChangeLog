@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: jrb  Fri Aug 28 15:02:42 PDT 2009
+pgwave/pgwave
+
+Modified Files:
+	MyMatrix.h 
+Log Message:
+MyMatrix.h  Compile fix for RHEL5; regularize form
+SConscript  Register pfile
+
+    *
+------------------------------------------------------------
+User: jrb  Fri Aug 28 15:02:42 PDT 2009
 pgwave
 
 Modified Files:
