@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug 28 15:02:42 PDT 2009
+pgwave
+
+Modified Files:
+	SConscript 
+Added Files:
+	.cvsignore 
+Log Message:
+MyMatrix.h  Compile fix for RHEL5; regularize form
+SConscript  Register pfile
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: ScienceTools-15-01-02, operation: del
 Package: pgwave
