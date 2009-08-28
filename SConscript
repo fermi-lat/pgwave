@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Id: SConscript,v 1.11 2009/07/16 00:33:41 glastrm Exp $
+# $Id: SConscript,v 1.1 2009/07/29 20:15:26 jchiang Exp $
 # Authors: James Chiang <jchiang@slac.stanford.edu>
 # Version: pgwave-01-02-00
 
@@ -18,4 +18,5 @@ progEnv.Tool('registerTargets', package = 'pgwave',
              staticLibraryCxts = [[pgwaveLib, libEnv]],
              testAppCxts = [[pgwave2D, progEnv]],
              includes = listFiles(['pgwave/*.h']),
-             data = listFiles(['data/*'], recursive = True))
+             data = listFiles(['data/*'], recursive = True),
+             pfiles = ['pfiles/pgwave2D.par'])
