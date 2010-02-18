@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Id: SConscript,v 1.2 2009/08/28 22:02:42 jrb Exp $
+# $Id: SConscript,v 1.3 2009/12/14 19:29:30 jchiang Exp $
 # Authors: James Chiang <jchiang@slac.stanford.edu>
 # Version: pgwave-01-02-00
 
@@ -8,7 +8,6 @@ Import('listFiles')
 progEnv = baseEnv.Clone()
 libEnv = baseEnv.Clone()
 
-libEnv.Tool('pgwaveLib', depsOnly = 1)
 pgwaveLib = libEnv.StaticLibrary('pgwave', listFiles(['src/*.cpp']))
 
 progEnv.Tool('pgwaveLib')
