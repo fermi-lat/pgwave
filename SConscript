@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Id: SConscript,v 1.3 2009/12/14 19:29:30 jchiang Exp $
+# $Id: SConscript,v 1.4 2010/02/18 00:59:22 jrb Exp $
 # Authors: James Chiang <jchiang@slac.stanford.edu>
-# Version: pgwave-01-02-00
+# Version: pgwave-01-02-01
 
 Import('baseEnv')
 Import('listFiles')
