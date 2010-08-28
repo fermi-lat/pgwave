@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: jchiang  Sat Aug 28 16:34:13 PDT 2010
+ScienceTools-scons/pgwave/src
+
+Modified Files:
+	MyImage.cpp MyImageAnalisys.cpp filtri.cpp function_util.cpp 
+	utile.cpp 
+Log Message:
+remove extraneous ^M s from DOS-infected files
+    *
+------------------------------------------------------------
+User: jchiang  Sat Aug 28 16:34:13 PDT 2010
 ScienceTools-scons/pgwave/pgwave
 
 Modified Files:
