@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jchiang  Sat Aug 28 18:43:39 PDT 2010
+ScienceTools-scons/pgwave/src/app
+
+Modified Files:
+	main.cpp 
+Log Message:
+get rid of DOS formatting which VC90 itself cannot handle
+    *
+------------------------------------------------------------
 TAG
 Tag name: pgwave-01-02-02, operation: add
 Package: pgwave
