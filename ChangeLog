@@ -1,5 +1,34 @@
 ------------------------------------------------------------
 TAG
+Tag name: ScienceTools-09-20-00, operation: add
+Package: pgwave
+User: glastrm  Wed Dec 15 18:46:02 2010
+Files:
+  pgwave/.cvsignore  1.1
+  pgwave/pgwaveLib.py  1.1
+  pgwave/ChangeLog  1.91
+  pgwave/SConscript  1.7
+  pgwave/cmt/requirements  1.9
+  pgwave/doc/release.notes  1.5
+  pgwave/pfiles/pgwave2D.par  1.2
+  pgwave/pgwave/utile.h  1.4
+  pgwave/pgwave/MyImageAnalisys.h  1.2
+  pgwave/pgwave/MyMatrix.h  1.2
+  pgwave/pgwave/MyImage.h  1.2
+  pgwave/pgwave/readParFile.h  1.2
+  pgwave/pgwave/function_util.h  1.3
+  pgwave/pgwave/filtri.h  1.3
+  pgwave/src/function_util.cpp  1.5
+  pgwave/src/readParFile.cpp  1.3
+  pgwave/src/utile.cpp  1.5
+  pgwave/src/filtri.cpp  1.3
+  pgwave/src/MyImage.cpp  1.4
+  pgwave/src/MyImageAnalisys.cpp  1.4
+  pgwave/src/app/main.cpp  1.4
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: ScienceTools-09-19-00, operation: add
 Package: pgwave
 User: glastrm  Fri Nov  5 06:16:19 2010
