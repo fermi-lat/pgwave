@@ -10,7 +10,12 @@
 #define __FILTRI_H
 
 #include "function_util.h"
+
+#ifndef CONDA_FFTW
 #include "fftw/fftw3.h"
+#else
+#include "fftw3.h"
+#endif
 
 
 #ifndef M_PI
