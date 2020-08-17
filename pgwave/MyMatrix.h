@@ -168,9 +168,9 @@ public:
       nhisto[i]=double(histo[i])/tot;
       //cout<<nhisto[i]<<endl;
     }
-    const long int *p=max_element(histo.begin(),histo.end());
-    // moda=(double)(p-histo.begin());
-    moda=(double)(p - (long int *) histo.begin());
+    const auto p=max_element(histo.begin(),histo.end());
+    moda=(double)(p-histo.begin());
+    // moda=(double)(p - (long int *) histo.begin());
   };
 
   void Rebin(unsigned int nbin){
